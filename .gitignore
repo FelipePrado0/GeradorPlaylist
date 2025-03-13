@@ -1,0 +1,10 @@
+# .gitignore
+
+# Arquivos sensíveis
+.env
+
+
+# Pastas e arquivos temporários
+__pycache__/
+*.py[cod]
+*.env.backup
